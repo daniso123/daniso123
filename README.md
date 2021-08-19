@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **daniso123/daniso123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hillow, everything good? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+### Hi there, everything good? 👋
 
 My name is Daniela, and I am a graduate student in software engineering at the <a style="text-decoration:none;" href="http://www.unb.br">University of Brasilia</a> (UNB). I'm  Front End developer, but I can manage with brack end too. I am always open to collaborating on projects, ideas and everything that interests me. Find out more about me and feel free to connect with me here:
 
