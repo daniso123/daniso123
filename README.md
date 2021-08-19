@@ -33,6 +33,7 @@ My name is Daniela, and I am a graduate student in software engineering at the <
 <code><img height="20" src="https://img.icons8.com/color/96/000000/linux.png"></code>
 <code><img height="20" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png"></code>
 
+## 📈 GitHub Stats
 <div align="center">
 
 <a href="https://github.com/daniso123">
